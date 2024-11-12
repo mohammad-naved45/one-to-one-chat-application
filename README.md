@@ -1,5 +1,5 @@
 One-to-One Real-Time Chat Application
-This is a one-to-one real-time chat application that allows users to communicate instantly with each other. Built with [technology stack], it provides a smooth, interactive messaging experience, and ensures secure and efficient communication.
+This is a one-to-one real-time chat application that allows users to communicate instantly with each other, it provides a smooth, interactive messaging experience, and ensures secure and efficient communication.
 
 Features
 Real-Time Messaging: Instant messaging with minimal delay using WebSocket.
